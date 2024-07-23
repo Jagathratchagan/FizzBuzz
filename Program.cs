@@ -4,10 +4,11 @@
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello, World!");
+            Console.Write("Please enter your input : ");            
 
             // Get Input
             string input = Console.ReadLine();
+            Console.WriteLine();
             string output = string.Empty;
 
             try

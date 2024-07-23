@@ -12,3 +12,4 @@ C:\MyProjects\CodeTest\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
 C:\MyProjects\CodeTest\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
 C:\MyProjects\CodeTest\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
 C:\MyProjects\CodeTest\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
+C:\MyProjects\CodeTest\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json
